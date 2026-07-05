@@ -11,7 +11,7 @@ I spent two years building AI systems (agents, RAG pipelines, LLM features in pr
 ### 📄 [`ai-use-policy.md`](./ai-use-policy.md) — a complete firm-wide AI Use Policy
 A full, implementable AI Use Policy for a *fictional* mid-sized Australian financial-advisory firm. Seven sections covering scope, roles & accountability, acceptable/prohibited use, data rules, a tool-approval gate, oversight/transparency/contestability, and records/training/incident-response.
 
-It maps the **10 guardrails of Australia's Voluntary AI Safety Standard** to concrete house rules a real firm could adopt — and aligns with the **Privacy Act 1988**, **NIST AI RMF**, **ISO/IEC 42001**, and the **EU AI Act**.
+It maps the core operational guardrails of **Australia's Voluntary AI Safety Standard** — accountability, tool approval, data governance, human oversight, transparency, contestability, and records — to concrete house rules a real firm could adopt, and aligns with the **Privacy Act 1988**, **NIST AI RMF**, **ISO/IEC 42001**, and the **EU AI Act**. (Testing & monitoring, supply-chain transparency, and stakeholder engagement are the next additions.)
 
 ### 🎴 [`explainers/`](./explainers) — plain-English visual explainers
 Colour-coded, one-glance breakdowns of the governance concepts behind the policy:
